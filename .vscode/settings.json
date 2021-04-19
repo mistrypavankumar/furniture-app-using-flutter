@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "android": true,
+    "build": true,
+    "ios": true,
+    "test": true,
+    "web": true,
+    ".metadata": true,
+    ".packages": true,
+    "furniture_app.iml": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    ".gitignore": true
+  }
+}
